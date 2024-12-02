@@ -1,0 +1,2 @@
+rootProject.name = 'home_buddy_backend'
+include 'home-buddy-backend'
